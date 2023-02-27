@@ -1,2 +1,5 @@
 # hclang
-don't ask me why is it named hclang, i was just bored
+nothing is here for now so just enjoy lorem ipsum
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
