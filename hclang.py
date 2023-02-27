@@ -8,6 +8,7 @@ if file[len(file) - 4:] != ".hc":
     quit()
 
 main_lang = [
+        ("up!", "input"
         ("!!", "elif"),
         ("ols", "as"),
         ("add", "import"),
