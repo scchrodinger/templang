@@ -14,3 +14,5 @@ install it like this:
   chmod +x install.sh
   
   ./install.sh
+  
+this is just for fun and yes i know this is pyhton with exclamation marks and idc
