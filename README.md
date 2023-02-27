@@ -8,6 +8,9 @@ install it like this:
 
 
   git clone https://github.com/schrodingerwastaken/hclang.git
+  
   cd path to the repo
+  
   chmod +x install.sh
+  
   ./install.sh
