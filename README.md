@@ -1,18 +1,20 @@
-# hclang
-nothing is here for now so just enjoy lorem ipsum
+# templang
+template language is a repo so you can translate python keywords into your keywords so it's easier to write in python for you.
 
+## install it like this:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-install it like this:
-
-
-  git clone https://github.com/schrodingerwastaken/hclang.git
+```
+  git clone https://github.com/schrodingerwastaken/templang.git
   
   cd path to the repo
   
   chmod +x install.sh
   
   ./install.sh
+```
   
-this is just for fun and yes i know this is pyhton with exclamation marks and idc
+  
+  
+  
+this is just for fun
+
