@@ -16,5 +16,5 @@ template language is a repo so you can translate python keywords into your keywo
   
   
   
-this is just for fun
+this is just for fun and it only works in Linux
 
