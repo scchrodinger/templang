@@ -10,7 +10,7 @@ if file[len(file) - 4:] != "***":
 
 #fil the blanks with your own keywords
 main_lang = [
-        ("", "input"
+        ("", "input"),
         ("", "elif"),
         ("", "as"),
         ("", "import"),
