@@ -10,7 +10,7 @@ if file[len(file) - 4:] != ".spalang":
 
 #fil the blanks with your own keywords
 main_lang = [
-        ("aporte", "input"
+        ("aporte", "input"),
         ("más si", "elif"),
         ("como", "as"),
         ("importar", "import"),
