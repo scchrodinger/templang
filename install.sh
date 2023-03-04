@@ -1,3 +1,3 @@
-cp hclang.py hclang
-sudo chmod ugo+x hclang
-sudo cp hclang /usr/bin/
+cp lang.py lang
+sudo chmod ugo+x lang
+sudo cp lang /usr/bin/
