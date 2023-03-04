@@ -43,7 +43,7 @@ main_lang = [
         ("Ninguna", "None"),
         ("salida", "exit"),
         ("romper", "break"),
-        ("abierta", "open"),
+        ("abierta", "open")
 ]
 
 content = f.read()
