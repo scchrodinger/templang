@@ -10,7 +10,7 @@ if file[len(file) - 4:] != "***":
 
 #fil the blanks with your own keywords
 main_lang = [
-        ("", "input"
+        ("saisir", "input"),
         ("", "elif"),
         ("", "as"),
         ("", "import"),
@@ -43,7 +43,7 @@ main_lang = [
         ("", "None"),
         ("", "exit"),
         ("", "break"),
-        ("", "open"),
+        ("", "open")
 ]
 
 content = f.read()
