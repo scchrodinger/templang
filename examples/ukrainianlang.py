@@ -10,7 +10,7 @@ if file[len(file) - 4:] != ".uklang":
 
 #fil the blanks with your own keywords
 main_lang = [
-        ("vvedennya", "input"
+        ("vvedennya", "input"),
         ("inakshe, yakshcho", "elif"),
         ("yak", "as"),
         ("import", "import"),
