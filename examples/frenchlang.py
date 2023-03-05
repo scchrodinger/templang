@@ -4,46 +4,46 @@ path = sys.argv[1]
 #fill *** with your own file extention
 file = path;
 f = open(file, "r", encoding="utf-8")
-if file[len(file) - 4:] != "***":
-    print("transpiler can just open *** files");
+if file[len(file) - 4:] != ".frlang":
+    print("transpiler can just open .frlang files");
     quit()
 
 #fil the blanks with your own keywords
 main_lang = [
         ("saisir", "input"),
-        ("", "elif"),
-        ("", "as"),
-        ("", "import"),
-        ("", "else"),
-        ("", "if"),
-        ("", "print"),
-        ("", "try"),
-        ("", "except"),
-        ("", "def"),
-        ("", "class"),
-        ("", "return"),
-        ("", "range"),
-        ("", "yield"),
-        ("", "from"),
-        ("", "continue"),
-        ("", "len"),
-        ("", "with"),
-        ("", "not"),
-        ("", "is"),
-        ("", "in"),
-        ("", "for"),
-        ("", "assert"),
-        ("", "pass"),
-        ("", "or"),
-        ("", "True"),
-        ("", "False"),
-        ("", "while"),
-        ("", "raise"),
-        ("", "and"),
-        ("", "None"),
-        ("", "exit"),
-        ("", "break"),
-        ("", "open")
+        ("sinon si", "elif"),
+        ("comme", "as"),
+        ("importer", "import"),
+        ("autre", "else"),
+        ("si", "if"),
+        ("imprimer", "print"),
+        ("essayer", "try"),
+        ("sauf", "except"),
+        ("définir", "def"),
+        ("classe", "class"),
+        ("retour", "return"),
+        ("gamme", "range"),
+        ("rendement", "yield"),
+        ("depuis", "from"),
+        ("continuer", "continue"),
+        ("longueur", "len"),
+        ("avec", "with"),
+        ("pas", "not"),
+        ("est", "is"),
+        ("dans", "in"),
+        ("pour", "for"),
+        ("affirmer", "assert"),
+        ("passer", "pass"),
+        ("ou", "or"),
+        ("vraie", "True"),
+        ("faux", "False"),
+        ("alors que", "while"),
+        ("augmenter", "raise"),
+        ("et", "and"),
+        ("aucune", "None"),
+        ("sortie", "exit"),
+        ("casser", "break"),
+        ("ouvrir", "open")
 ]
 
 content = f.read()
